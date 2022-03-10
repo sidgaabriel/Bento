@@ -64,7 +64,7 @@ const CONFIG = {
       link: 'https://reader.gabsalmeida.xyz',
     },
     {
-      id: '3',
+      id: '5',
       name: 'Reddit',
       icon: 'glasses',
       link: 'https://reddit.com',
@@ -76,7 +76,7 @@ const CONFIG = {
       link: 'https://gitlab.com/sidgaabriel',
     },
     {
-      id: '5',
+      id: '3',
       name: 'Github',
       icon: 'github',
       link: 'https://github.com/sidgaabriel',
@@ -94,7 +94,7 @@ const CONFIG = {
       id: '1',
       name: 'Music',
       icon: 'headphones',
-      link: 'https://open.spotify.com',
+      link: 'https://music.youtube.com',
     },
     {
       id: '2',
