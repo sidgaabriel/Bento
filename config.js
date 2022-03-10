@@ -88,7 +88,7 @@ const CONFIG = {
       id: '6',
       name: 'Youtube Music',
       icon: 'music',
-      link: 'https://music.youtube.com,
+      link: 'https://music.youtube.com',
     },
   ],
 
