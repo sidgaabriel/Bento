@@ -85,19 +85,19 @@ const CONFIG = {
 
   secondButtonsContainer: [
     {
-      id: '2',
+      id: '1',
       name: 'Podcasts',
       icon: 'podcast',
       link: 'https://podcast.google.com',
     },
     {
-      id: '3',
+      id: '4',
       name: 'Youtube',
       icon: 'youtube',
       link: 'https://youtube.com/',
     },
     {
-      id: '6',
+      id: '5',
       name: 'Youtube Music',
       icon: 'music',
       link: 'https://music.youtube.com',
