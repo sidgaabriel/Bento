@@ -114,18 +114,6 @@ const CONFIG = {
       icon: 'shopping-bag',
       link: 'https://amazon.com/',
     },
-    {
-      id: '5',
-      name: 'Hashnode',
-      icon: 'pen-tool',
-      link: 'https://hashnode.com/',
-    },
-    {
-      id: '6',
-      name: 'Figma',
-      icon: 'figma',
-      link: 'https://figma.com/',
-    },
   ],
 
   // ┬  ┬┌─┐┌┬┐┌─┐
