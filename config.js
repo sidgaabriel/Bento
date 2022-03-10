@@ -69,7 +69,6 @@ const CONFIG = {
       icon: 'gitlab',
       link: 'https://gitlab.com/sidgaabriel',
     },
-    },
        {
       id: '5',
       name: 'Github',
