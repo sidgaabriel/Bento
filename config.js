@@ -58,7 +58,7 @@ const CONFIG = {
       link: 'https://cloud.gabsalmeida.xyz',
     },
     {
-      id: '2',
+      id: '3',
       name: 'Github',
       icon: 'github',
       link: 'https://github.com/sidgaabriel',
