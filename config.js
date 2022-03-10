@@ -58,7 +58,7 @@ const CONFIG = {
       link: 'https://cloud.gabsalmeida.xyz',
     },
     {
-      id: '2',
+      id: '4',
       name: 'RSS',
       icon: 'rss',
       link: 'https://reader.gabsalmeida.xyz',
@@ -69,14 +69,9 @@ const CONFIG = {
       icon: 'gitlab',
       link: 'https://gitlab.com/sidgaabriel',
     },
-    {
-       id: '5',
-      name: 'YouTube',
-      icon: 'youtube',
-      link: 'https://youtube.com',
     },
        {
-      id: '6',
+      id: '5',
       name: 'Github',
       icon: 'github',
       link: 'https://github.com/sidgaabriel',
