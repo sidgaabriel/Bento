@@ -66,35 +66,29 @@ const CONFIG = {
      {
       id: '5',
       name: 'Reddit',
-      icon: 'reddit',
+      icon: 'glasses',
       link: 'https://reddit.com',
     },
   ],
 
   secondButtonsContainer: [
     {
-      id: '1',
-      name: 'Music',
-      icon: 'headphones',
-      link: 'https://music.youtube.com',
-    },
-    {
       id: '2',
-      name: 'twitter',
-      icon: 'twitter',
-      link: 'https://twitter.com/',
+      name: 'Podcasts',
+      icon: 'podcast',
+      link: 'https://podcast.google.com',
     },
     {
       id: '3',
-      name: 'bot',
-      icon: 'bot',
-      link: 'https://discord.com/app',
+      name: 'Youtube',
+      icon: 'youtube',
+      link: 'https://youtube.com/',
     },
     {
-      id: '4',
-      name: 'Amazon',
-      icon: 'shopping-bag',
-      link: 'https://amazon.com/',
+      id: '6',
+      name: 'Youtube Music',
+      icon: 'music',
+      link: 'https://music.youtube.com,
     },
   ],
 
