@@ -64,7 +64,7 @@ const CONFIG = {
       link: 'https://reader.gabsalmeida.xyz',
     },
      {
-      id: '4',
+      id: '3',
       name: 'Gitlab',
       icon: 'gitlab',
       link: 'https://gitlab.com/sidgaabriel',
