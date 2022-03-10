@@ -58,10 +58,10 @@ const CONFIG = {
       link: 'https://cloud.gabsalmeida.xyz',
     },
     {
-      id: '3',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/sidgaabriel',
+      id: '2',
+      name: 'Reddit',
+      icon: 'glasses',
+      link: 'https://reddit.com',
     },
     {
       id: '4',
@@ -69,14 +69,8 @@ const CONFIG = {
       icon: 'rss',
       link: 'https://reader.gabsalmeida.xyz',
     },
-     {
-      id: '5',
-      name: 'Reddit',
-      icon: 'glasses',
-      link: 'https://reddit.com',
-    },
     {
-      id: '6',
+      id: '5',
       name: 'Gitlab',
       icon: 'gitlab',
       link: 'https://gitlab.com/sidgaabriel',
@@ -86,11 +80,17 @@ const CONFIG = {
   secondButtonsContainer: [
     {
       id: '1',
+      name: 'Github',
+      icon: 'github',
+      link: 'https://github.com/sidgaabriel',
+    },
+    {
+      id: '2',
       name: 'Youtube',
       icon: 'youtube',
       link: 'https://youtube.com/',
     },
-    {
+     
       id: '4',
       name: 'Podcasts',
       icon: 'podcast',
