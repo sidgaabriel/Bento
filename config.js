@@ -63,13 +63,7 @@ const CONFIG = {
       icon: 'rss',
       link: 'https://reader.gabsalmeida.xyz',
     },
-    {
-      id: '3',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/sidgaabriel',
-    },
-    {
+     {
       id: '4',
       name: 'Gitlab',
       icon: 'gitlab',
@@ -80,6 +74,12 @@ const CONFIG = {
       name: 'YouTube',
       icon: 'youtube',
       link: 'https://youtube.com',
+    },
+       {
+      id: '6',
+      name: 'Github',
+      icon: 'github',
+      link: 'https://github.com/sidgaabriel',
     },
   ],
 
