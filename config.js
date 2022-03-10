@@ -64,10 +64,10 @@ const CONFIG = {
       link: 'https://reader.gabsalmeida.xyz',
     },
     {
-      id: '5',
-      name: 'Reddit',
-      icon: 'glasses',
-      link: 'https://reddit.com',
+      id: '3',
+      name: 'Github',
+      icon: 'github',
+      link: 'https://github.com/sidgaabriel',
     },
     {
       id: '4',
@@ -76,10 +76,10 @@ const CONFIG = {
       link: 'https://gitlab.com/sidgaabriel',
     },
     {
-      id: '3',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/sidgaabriel',
+       id: '5',
+      name: 'Reddit',
+      icon: 'glasses',
+      link: 'https://reddit.com',
     },
     {
       id: '6',
