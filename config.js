@@ -90,7 +90,7 @@ const CONFIG = {
       icon: 'youtube',
       link: 'https://youtube.com/',
     },
-     
+    {
       id: '4',
       name: 'Podcasts',
       icon: 'podcast',
