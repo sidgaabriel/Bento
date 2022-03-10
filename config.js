@@ -58,6 +58,12 @@ const CONFIG = {
       link: 'https://cloud.gabsalmeida.xyz',
     },
     {
+      id: '2',
+      name: 'Github',
+      icon: 'github',
+      link: 'https://github.com/sidgaabriel',
+    },
+    {
       id: '4',
       name: 'RSS',
       icon: 'rss',
@@ -68,6 +74,12 @@ const CONFIG = {
       name: 'Reddit',
       icon: 'glasses',
       link: 'https://reddit.com',
+    },
+    {
+      id: '6',
+      name: 'Gitlab',
+      icon: 'gitlab',
+      link: 'https://gitlab.com/sidgaabriel',
     },
   ],
 
