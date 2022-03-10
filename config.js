@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'gabs',
   imageBackground: false,
   openInNewTab: true,
   twelveHourFormat: false,
@@ -23,20 +23,20 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Layout
-  bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+  bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+  weatherKey: '5cb150438cf5b9f851f21b05b249689a', // Write here your API Key
   weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '37.775',
-  defaultLongitude: '-122.419',
+  defaultLatitude: '-26.304760',
+  defaultLongitude: '-48.845871',
 
   // Autochange
-  autoChangeTheme: true,
+  autoChangeTheme: false,
 
   // Autochabge by OS
   changeThemeByOS: true,
@@ -53,33 +53,33 @@ const CONFIG = {
   firstButtonsContainer: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/',
+      name: 'gabsalmeida.xyz',
+      icon: 'cloud',
+      link: 'https://cloud.gabsalmeida.xyz',
     },
     {
       id: '2',
-      name: 'Mail',
-      icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      name: 'RSS',
+      icon: 'rss',
+      link: 'https://reader.gabsalmeida.xyz',
     },
     {
       id: '3',
-      name: 'Todoist',
-      icon: 'trello',
-      link: 'https://todoist.com',
-    },
-    {
-      id: '4',
-      name: 'Calendar',
-      icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
-    },
-    {
-      id: '5',
       name: 'Reddit',
       icon: 'glasses',
       link: 'https://reddit.com',
+    },
+    {
+      id: '4',
+      name: 'Gitlab',
+      icon: 'gitlab',
+      link: 'https://gitlab.com/sidgaabriel',
+    },
+    {
+      id: '5',
+      name: 'Github',
+      icon: 'github',
+      link: 'https://github.com/sidgaabriel',
     },
     {
       id: '6',
