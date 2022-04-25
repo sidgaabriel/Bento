@@ -64,6 +64,12 @@ const CONFIG = {
       link: 'https://reddit.com',
     },
     {
+      id: '3',
+      name: 'Torrent',
+      icon: 'download',
+      link: 'https://remote.gabsalmeida.xyz',
+    },
+    {
       id: '4',
       name: 'RSS',
       icon: 'rss',
