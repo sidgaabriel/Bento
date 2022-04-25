@@ -109,7 +109,7 @@ const CONFIG = {
       link: 'https://odysee.com',
     },
     {
-      id: '5',
+      id: '6',
       name: 'Youtube Music',
       icon: 'music',
       link: 'https://music.youtube.com',
