@@ -98,9 +98,9 @@ const CONFIG = {
     },
     {
       id: '4',
-      name: 'Podcasts',
-      icon: 'podcast',
-      link: 'https://podcast.google.com',
+      name: 'Youtube Music',
+      icon: 'music',
+      link: 'https://music.youtube.com',
     },
     {
       id: '5',
@@ -110,9 +110,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Youtube Music',
-      icon: 'music',
-      link: 'https://music.youtube.com',
+      name: 'Podcasts',
+      icon: 'podcast',
+      link: 'https://podcast.google.com',
     },
   ],
 
