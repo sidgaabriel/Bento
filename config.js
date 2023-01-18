@@ -91,16 +91,16 @@ const CONFIG = {
       link: 'https://youtube.com/',
     },
     {
-      id: '4',
+      id: '3',
       name: 'Youtube Music',
       icon: 'music',
       link: 'https://music.youtube.com',
     },
     {
-      id: '5',
+      id: '4',
       name: 'Podcasts',
       icon: 'podcast',
-      link: 'https://odysee.com',
+      link: 'https://podcasts.google.com',
     },
   ],
 
