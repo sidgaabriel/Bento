@@ -65,18 +65,12 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Torrent',
-      icon: 'download',
-      link: 'https://remote.gabsalmeida.xyz',
-    },
-    {
-      id: '4',
       name: 'RSS',
       icon: 'rss',
       link: 'https://reader.gabsalmeida.xyz',
     },
     {
-      id: '5',
+      id: '4',
       name: 'Gitlab',
       icon: 'gitlab',
       link: 'https://gitlab.com/sidgaabriel',
@@ -104,15 +98,9 @@ const CONFIG = {
     },
     {
       id: '5',
-      name: 'Odysee',
-      icon: 'film',
-      link: 'https://odysee.com',
-    },
-    {
-      id: '6',
       name: 'Podcasts',
       icon: 'podcast',
-      link: 'https://podcast.google.com',
+      link: 'https://odysee.com',
     },
   ],
 
