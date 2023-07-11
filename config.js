@@ -67,7 +67,7 @@ const CONFIG = {
       id: '3',
       name: 'RSS',
       icon: 'rss',
-      link: 'https://reader.gabsalmeida.xyz',
+      link: 'https://news.gabsalmeida.xyz',
     },
     {
       id: '4',
