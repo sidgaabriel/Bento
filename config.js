@@ -53,9 +53,9 @@ const CONFIG = {
   firstButtonsContainer: [
     {
       id: '1',
-      name: 'gabsalmeida.xyz',
+      name: 'Cloud',
       icon: 'cloud',
-      link: 'https://cloud.gabsalmeida.xyz',
+      link: 'https://cloud.gabs.casa',
     },
     {
       id: '2',
@@ -67,7 +67,7 @@ const CONFIG = {
       id: '3',
       name: 'RSS',
       icon: 'rss',
-      link: 'https://news.gabsalmeida.xyz',
+      link: 'https://rss.gabs.casa',
     },
     {
       id: '4',
