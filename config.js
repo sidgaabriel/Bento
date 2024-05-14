@@ -65,9 +65,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'RSS',
-      icon: 'rss',
-      link: 'https://rss.gabs.casa',
+      name: 'Github',
+      icon: 'github',
+      link: 'https://github.com/sidgaabriel',
     },
     {
       id: '4',
@@ -80,9 +80,9 @@ const CONFIG = {
   secondButtonsContainer: [
     {
       id: '1',
-      name: 'Github',
-      icon: 'github',
-      link: 'https://github.com/sidgaabriel',
+      name: 'RSS',
+      icon: 'rss',
+      link: 'https://rss.gabs.casa',
     },
     {
       id: '2',
@@ -95,12 +95,6 @@ const CONFIG = {
       name: 'Youtube Music',
       icon: 'music',
       link: 'https://music.youtube.com',
-    },
-    {
-      id: '4',
-      name: 'Podcasts',
-      icon: 'podcast',
-      link: 'https://podcasts.google.com',
     },
   ],
 
