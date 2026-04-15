@@ -53,27 +53,27 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Cloud',
+			icon: 'cloud',
+			link: 'https://cloud.gabs.casa/',
 		},
 		{
 			id: '2',
-			name: 'Mail',
+			name: 'Webmail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://webmail.gabs.casa',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'RSS',
+			icon: 'rss',
+			link: 'https://rss.gabs.casa',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Kramer',
+			icon: 'monitor-cloud',
+			link: 'https://kramer.gabs.casa',
 		},
 	],
 
