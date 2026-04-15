@@ -17,9 +17,9 @@ const CONFIG = {
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
-	greetingAfternoon: 'Good afternoon,',
-	greetingEvening: 'Good evening,',
+	greetingMorning: 'Good morning ',
+	greetingAfternoon: 'Good afternoon ',
+	greetingEvening: 'Good evening ',
 	greetingNight: 'Go to Sleep!',
 
 	// Layout
@@ -75,18 +75,6 @@ const CONFIG = {
 			icon: 'calendar',
 			link: 'https://calendar.google.com/calendar/r',
 		},
-		{
-			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
-		},
-		{
-			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
-		},
 	],
 
 	secondButtonsContainer: [
@@ -113,18 +101,6 @@ const CONFIG = {
 			name: 'Amazon',
 			icon: 'shopping-bag',
 			link: 'https://amazon.com/',
-		},
-		{
-			id: '5',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
-		},
-		{
-			id: '6',
-			name: 'Figma',
-			icon: 'figma',
-			link: 'https://figma.com/',
 		},
 	],
 
