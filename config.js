@@ -72,14 +72,14 @@ const CONFIG = {
 		{
 			id: '4',
 			name: 'Kramer',
-			icon: 'terminal',
-			link: 'https://nexterm.gabs.casa',
+			icon: 'monitor-cloud',
+			link: 'https://kramer.gabs.casa',
 		},
 				{
 			id: '5',
 			name: 'Nexterm',
-			icon: 'monitor-cloud',
-			link: 'https://kramer.gabs.casa',
+			icon: 'terminal',
+			link: 'https://nexterm.gabs.casa',
 		},
 	],
 
@@ -89,7 +89,6 @@ const CONFIG = {
 			name: 'IA',
 			icon: 'brain',
 			link: 'https://duck.ai/',
-
 		},
 		{
 			id: '2',
@@ -99,12 +98,24 @@ const CONFIG = {
 		},
 		{
 			id: '3',
+			name: 'Media',
+			icon: 'film',
+			link: 'https://media.gabs.casa',
+		},
+		{
+			id: '4',
+			name: 'Plex',
+			icon: 'monitor-play',
+			link: 'https://plex.gabs.casa',
+		},
+		{
+			id: '5',
 			name: 'Music',
 			icon: 'headphones',
 			link: 'https://music.youtube.com',
 		},
 		{
-			id: '4',
+			id: '6',
 			name: 'Youtube',
 			icon: 'play',
 			link: 'https://youtube.com',
