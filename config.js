@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Webmail',
 			icon: 'mail',
-			link: 'https://webmail.gabs.casa',
+			link: 'https://webmail.gabsalmeida.xyz',
 		},
 		{
 			id: '3',
