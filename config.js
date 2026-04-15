@@ -75,11 +75,17 @@ const CONFIG = {
 			icon: 'monitor-cloud',
 			link: 'https://kramer.gabs.casa',
 		},
-				{
+		{
 			id: '5',
 			name: 'Nexterm',
 			icon: 'terminal',
 			link: 'https://nexterm.gabs.casa',
+		},
+		{
+			id: '6',
+			name: 'NPM',
+			icon: 'server',
+			link: 'https://npm.gabs.casa',
 		},
 	],
 
