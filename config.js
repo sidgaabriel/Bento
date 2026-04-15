@@ -17,10 +17,10 @@ const CONFIG = {
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning',
-	greetingAfternoon: 'Good afternoon',
-	greetingEvening: 'Good evening',
-	greetingNight: 'Go to Sleep!',
+	greetingMorning: 'Bom dia',
+	greetingAfternoon: 'Boa tarde',
+	greetingEvening: 'Boa noite',
+	greetingNight: 'Vai dormir!',
 
 	// Layout
 	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
@@ -29,7 +29,7 @@ const CONFIG = {
 	weatherKey: '323ac2bb2cc6bb90e6c9f2ba468aa8c2', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
-	language: 'en', // More languages in https://openweathermap.org/current#multi
+	language: 'pt_br', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
 	defaultLatitude: '-26.269822',
@@ -93,15 +93,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Youtube',
-			icon: 'play',
-			link: 'https://youtube.com',
-		},
-		{
-			id: '4',
 			name: 'Music',
 			icon: 'headphones',
 			link: 'https://music.youtube.com',
+		},
+		{
+			id: '4',
+			name: 'Youtube',
+			icon: 'play',
+			link: 'https://youtube.com',
 		},
 	],
 
